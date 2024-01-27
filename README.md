@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aayushbasnetofficial@gmail.com**
 
-- ⚡ Fun fact **Connect with Me!!**
+- ⚡ Fun fact ** I turn raw data into stories, unraveling insights like a detective solving puzzles. Numbers speak, and I translate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
