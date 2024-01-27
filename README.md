@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Aayush Basnet</h1>
-<h3 align="center">A passionate Data Analyst From Nepal</h3>
+<h3 align="center">Data Analyst with proficiency in SQL, Python, Tableau, Power BI, and Excel From Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-basnet&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-basnet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-basnet" alt="aayush-basnet" /></a> </p>
 
-- 🔭 I’m currently working on [Covid Data Exploration](https://github.com/Aayush-Basnet/Project-Portfolio/blob/main/Covid%20Exploration%20Project.sql)
 
 - 🌱 I’m currently learning **Python for Data Analysis**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **aayushbasnetofficial@gmail.com**
 
-- ⚡ Fun fact ** I turn raw data into stories, unraveling insights like a detective solving puzzles. Numbers speak, and I translate.**
+- ⚡ Fun fact **I turn raw data into stories, unraveling insights like a detective solving puzzles. Numbers speak, and I translate.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
