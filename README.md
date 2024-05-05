@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python for Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aayush-Basnet/Project-Portfolio](https://github.com/Aayush-Basnet/Project-Portfolio)
+- 👨‍💻 All of my projects are available at [https://aayush-basnet.github.io/](https://aayush-basnet.github.io/AayushBasnet.github.io/)
 
 - 💬 Ask me about **SQL, MS Excel, Power BI and Tableau**
 
