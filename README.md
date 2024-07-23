@@ -1,16 +1,20 @@
-<h1 align="center">Hello 👋, I'm Aayush Basnet</h1>
-<h3 align="center">Data Analyst with proficiency in SQL, Python, Tableau, Power BI, and Excel From Nepal</h3>
+<h2 align="center">Hello, My name is Aayush Basnet👋</h2>
+<h3 align="center">Data Analyst with proficiency in SQL, Python, Tableau, Power BI, and Excel From Nepal.</h3></br>
+<p>I work as a Data & Analytics Analyst within the Financial Services & Sales/E-Commerce Industry. I'm currently pursuing my Bachelor’s degree in Computer Science and Information Technology.</p></br>
+<p>I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-basnet&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-basnet" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-basnet" alt="aayush-basnet" /></a> </p>
 
 
-- 🌱 I’m currently learning **Python for Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://aayush-basnet.github.io/](https://aayush-basnet.github.io/AayushBasnet.github.io/)
 
-- 💬 Ask me about **SQL, MS Excel, Power BI and Tableau**
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://aayush-basnet.github.io/AayushBasnet.github.io/)
+  
+- 🏢 Connect with me on [LinkedIn](https://www.linkedin.com/in/aayush-basnet-47b803239/)
+
+- 💬 Ask me about **SQL, MS Excel, Power BI/Tableau & Python**
 
 - 📫 How to reach me **aayushbasnetofficial@gmail.com**
 
