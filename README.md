@@ -5,16 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-basnet&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-basnet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayush-basnet" alt="aayush-basnet" /></a> </p>
-
-
-
 
 - 👨‍💻 All of my projects are available at [Portfolio Website](https://aayush-basnet.github.io/AayushBasnet.github.io/)
   
 - 🌱 I'm currently learning Data Science and Machine Learning
-  
-- 🏢 Connect with me on [LinkedIn](https://www.linkedin.com/in/aayush-basnet-47b803239/)
 
 - 📫 How to reach me **aayushbasnetofficial@gmail.com**
 
